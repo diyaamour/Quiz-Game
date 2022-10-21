@@ -30,7 +30,8 @@ question_data = [
      "question": "Pablo Picasso is one of the founding fathers of &quot;Cubism.&quot;", "correct_answer": "True",
      "incorrect_answers": ["False"]},
     {"category": "Entertainment: Video Games", "type": "boolean", "difficulty": "easy",
-     "question": "The PlayStation was originally a joint project between Sega and Sony that was a Sega Genesis with a disc drive.",
+     "question": "The PlayStation was originally a joint project between Sega "
+                 "and Sony that was a Sega Genesis with a disc drive.",
      "correct_answer": "False", "incorrect_answers": ["True"]},
     {"category": "Entertainment: Music", "type": "boolean", "difficulty": "easy",
      "question": "Daft Punk originated in France.", "correct_answer": "True", "incorrect_answers": ["False"]},
@@ -44,5 +45,7 @@ question_data = [
      "correct_answer": "True",
      "incorrect_answers": ["False"]},
     {"category": "Entertainment: Japanese Anime & Manga", "type": "boolean", "difficulty": "hard",
-     "question": "The protagonist in &quot;Humanity Has Declined&quot; has no discernable name and is simply referred to as &#039;I&#039; for most of the series.",
-     "correct_answer": "True", "incorrect_answers": ["False"]}]
+     "question": "The protagonist in &quot;Humanity Has Declined&quot;"
+                 " has no discernable name and is simply referred to as &#039;I&#039; for most of the series.",
+     "correct_answer": "True", "incorrect_answers": ["False"]}
+]
